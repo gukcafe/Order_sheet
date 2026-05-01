@@ -1,1 +1,15 @@
-
+{
+  "name": "OK국카페 주문관리",
+  "short_name": "OK국카페",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "/band-face.jpg",
+      "sizes": "400x400",
+      "type": "image/jpeg"
+    }
+  ]
+}
