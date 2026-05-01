@@ -1,7 +1,7 @@
 {
   "name": "OK국카페 주문관리",
   "short_name": "OK국카페",
-  "start_url": "/",
+  "start_url": "/go.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
